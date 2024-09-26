@@ -28,5 +28,5 @@ mvn install
 mvn spring-boot:run
 
 API researched and used from https://api.github.com/
-Assumed models for repository / commits / comment / pullrequest
-These can we used to with Grafana / Prometheus to publish metrics.
+Assumed models for repository / commits / comment / pullrequest.
+These can be used to with Grafana / Prometheus to publish metrics.
